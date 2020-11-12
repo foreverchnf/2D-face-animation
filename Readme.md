@@ -10,8 +10,8 @@
 ## 2. Using Salsa lipSync v2.x toolkit in Unity3D
 ### a. Buy the toolkit and download it from Unity3D official website
 ### b. Generate some pictures with mouth opening or other parts of face changing based on original 2D face photos
-<img src="photos/face_1_small.png" width="300" height="300" alt="icon"/></div>
-<img src="photos/face_1_mid.png" width="300" height="300" alt="icon"/></div>
-<img src="photos/face_1_large.png" width="300" height="300" alt="icon"/></div>
+<img src="photos/face_1_small.png" width="250" height="250" alt="icon"/></div>
+<img src="photos/face_1_mid.png" width="250" height="250" alt="icon"/></div>
+<img src="photos/face_1_large.png" width="250" height="250" alt="icon"/></div>
 ### c. Set the options of Salsa lipsync v2.x in Unity3D
 ### d. Import an audio to make 2D face talk according to the volunm of audio
