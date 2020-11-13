@@ -15,3 +15,8 @@
 <img src="photos/face_1_large.png" width="250" height="250" alt="icon"/></div>
 ### c. Set the options of Salsa lipsync v2.x in Unity3D
 ### d. Import an audio to make 2D face talk according to the volunm of audio
+
+## 3. Make 校徽（School Badge） talk
+* Based on CrazyTalk v7.2   (Singing School Song)
+
+![](gifs/crazytalk_xiaohui.gif)
