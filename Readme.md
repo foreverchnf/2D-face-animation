@@ -23,4 +23,4 @@
 
 * Based on Salsa lipsync in Unity3D   (Talking)
 
-![](gifs/salsa_xiaohui.gif)
+![](gifs/salsa_xiaohui_2.gif)
