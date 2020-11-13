@@ -20,3 +20,7 @@
 * Based on CrazyTalk v7.2   (Singing School Song)
 
 ![](gifs/crazytalk_xiaohui.gif)
+
+* Based on Salsa lipsync in Unity3D   (Talking)
+
+![](gifs/salsa_xiaohui.gif)
